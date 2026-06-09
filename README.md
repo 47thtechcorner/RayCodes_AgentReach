@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/SAFVy38S9Xg">
-    <img src="https://img.youtube.com/vi/SAFVy38S9Xg/0.jpg" alt="MiniCPM5-1B + Agent-Reach: Build a Local AI Trend Scout!">
+  <a href="https://youtu.be/8V-EiVDZu98">
+    <img src="https://img.youtube.com/vi/8V-EiVDZu98/0.jpg" alt="MiniCPM5-1B + Agent-Reach: Build a Local AI Trend Scout!">
   </a>
-  <h3>📺 <a href="https://youtu.be/SAFVy38S9Xg">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/8V-EiVDZu98">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # MiniCPM5-1B + Agent-Reach: Build a Local AI Trend Scout!
