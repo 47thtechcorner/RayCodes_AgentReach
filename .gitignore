@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Project caches & state
+.pytest_cache/
+.claude/
+.idea/
+.vscode/
+
+# Local databases/data
+output.json
+
+# Build & distribution
+dist/
+build/
+*.egg-info/
+
+# Configuration and logs
+.env
+.agent-reach/
+*.log

@@ -1,0 +1,57 @@
+[
+  {
+    "repo": "odysseus",
+    "owner": "pewdiepie-archdaemon",
+    "description": "Self-hosted AI workspace.",
+    "stars": 64225,
+    "founder": "Felix K.",
+    "bio": "Name: PewDiePie, Bio: Tinkering sminkering blinkering, Company: None",
+    "score": 92,
+    "verdict": "High Potential",
+    "reason": "Solo developer building a viral self-hosted AI workspace. Massive star growth velocity (64k+ stars) and zero corporate affiliation."
+  },
+  {
+    "repo": "CodexPlusPlus",
+    "owner": "BigPizzaV3",
+    "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp of an enhancement tool, striving to make Codex better to use and more comfortable.",
+    "stars": 16080,
+    "founder": "BigPizzaV3",
+    "bio": "Name: None, Bio: None, Company: None",
+    "score": 78,
+    "verdict": "High Potential",
+    "reason": "Independent developer building enhancement tools. Solid stars traction, indie builder bio pattern."
+  },
+  {
+    "repo": "ds4",
+    "owner": "antirez",
+    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "stars": 13270,
+    "founder": "Salvatore Sanfilippo",
+    "bio": "Name: Salvatore Sanfilippo, Bio: Computer programmer based in Sicily, Italy. I mostly write OSS software. Born 1977. Not a puritan., Company: Redis Labs",
+    "score": 85,
+    "verdict": "High Potential",
+    "reason": "Maintained by the legendary creator of Redis (Salvatore Sanfilippo). Extremely high authority, though less likely to accept typical seed VC funding, still representing a high-potential project."
+  },
+  {
+    "repo": "sdk-js",
+    "owner": "unicity-astrid",
+    "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
+    "stars": 8165,
+    "founder": "Astrid OS Team",
+    "bio": "Name: Astrid OS, Bio: By Unicity Labs, Company: None",
+    "score": 45,
+    "verdict": "Low Potential",
+    "reason": "Maintained by the unicity-astrid organization, suggesting an established entity or consortium rather than a solo founder."
+  },
+  {
+    "repo": "OrcaSlicer-bambulab",
+    "owner": "FULU-Foundation",
+    "description": "",
+    "stars": 6833,
+    "founder": "FULU Foundation",
+    "bio": "Name: FULU Foundation, Bio: A non-profit organization trying to fight consumer rights abuses and push back against the concept that you do not truly own what you bought & paid for. , Company: None",
+    "score": 30,
+    "verdict": "Low Potential",
+    "reason": "Maintained by a non-profit foundation focusing on consumer rights, with no commercial or VC-backable model."
+  }
+]
