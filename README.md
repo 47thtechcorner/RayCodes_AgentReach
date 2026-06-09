@@ -1,4 +1,11 @@
-# 👁️ AI Project Scout & Deal Finder
+<div align="center">
+  <a href="https://youtu.be/SAFVy38S9Xg">
+    <img src="https://img.youtube.com/vi/SAFVy38S9Xg/0.jpg" alt="MiniCPM5-1B + Agent-Reach: Build a Local AI Trend Scout!">
+  </a>
+  <h3>📺 <a href="https://youtu.be/SAFVy38S9Xg">Watch the full tutorial on YouTube</a></h3>
+</div>
+
+# MiniCPM5-1B + Agent-Reach: Build a Local AI Trend Scout!
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Ollama](https://img.shields.io/badge/Local%20LLM-Ollama-orange.svg?style=for-the-badge&logo=ollama)](https://ollama.com)
@@ -128,3 +135,8 @@ cmd = ["gh", "search", "repos", "created:>2026-05-01 stars:>500", "--json", "nam
 *   **Reddit Traction Scan:** Search subreddits like `r/selfhosted` or `r/programming` to evaluate user sentiment.
 *   **Automatic Outreach Emailer:** Auto-generate personalized outbound emails from local LLMs to target founders.
 *   **SurrealDB Persistence:** Store deals, founder histories, and previous evaluation scores in a local vector database.
+
+---
+
+## Keywords
+`minicpm`, `agent-reach`, `github-cli`, `ollama`, `local-llm`, `ai-project-scout`, `deal-sourcing`, `venture-capital`, `python`, `gradio-dashboard`

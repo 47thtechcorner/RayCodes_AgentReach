@@ -28,3 +28,11 @@ build/
 .env
 .agent-reach/
 *.log
+
+# Large ML Model Files
+*.bin
+*.onnx
+*.gguf
+*.safetensors
+*.pt
+
